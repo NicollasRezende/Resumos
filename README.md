@@ -1,2 +1,5 @@
-# Resumos
-Alguns resumos da materia de SO, eu dividi em 4 Modulos para facilitar a leitura e fiz tudo com base nos arquivos da parte de "conteudo web" que são basicamentes as aulas gravadas porem em formato pdf
+# Resumos da Matéria de Sistemas Operacionais
+
+Dividi os resumos em 4 Módulos para facilitar a leitura. Todo o conteúdo foi baseado nos arquivos da parte de "conteúdo web", que consistem principalmente nas aulas gravadas, porém em formato PDF.
+
+Arquivos:
