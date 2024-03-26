@@ -90,5 +90,3 @@ Gerenciamento de Processos e Multiprogramação:
 *   Multiprogramação: Compartilhar CPU entre múltiplos programas
 *   Sistemas em Lote: Programas em lote sem interação
 *   Sistemas Multitarefa: Múltiplos programas interativos
-
-Espero que esses detalhes adicionais sobre os principais conceitos e componentes dos sistemas operacionais tenham sido úteis e esclarecedores. Não hesite em me questionar sobre qualquer parte que precise de mais explicações.
